@@ -113,7 +113,19 @@ li {
 /*=================================
   main styling starts here
 =================================*/
+.main { margin: 50px auto; }
 
+.filter-container { 
+  margin-bottom: 20px;
+  text-align: center;
+ }
+
+ul { 
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  text-align: center;
+}
 /*=================================
   main styling ends here
 =================================*/
